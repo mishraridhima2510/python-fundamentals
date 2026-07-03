@@ -1,8 +1,8 @@
  # Python Fundamentals 🐍
 
-Welcome to my Python Fundamentals repository.
+# 🐍 Python Fundamentals
 
-This repository documents my journey of learning Python from scratch while building a strong foundation for Cybersecurity.
+A structured Python learning repository documenting my journey from beginner to advanced through daily practice, clean code, and mini projects.
 
 
 ## 📚 Topics Covered
@@ -37,6 +37,35 @@ This repository documents my journey of learning Python from scratch while build
 | Day 06 | Loops | ⏳ |
 | Day 07 | Functions | ⏳ |
 
+## 📂 Repository Structure
+
+
+python-fundamentals
+│
+├── Day01
+├── Day02
+├── Day03
+├── README.md
+└── LICENSE
+
+## 🚀 Skills
+
+- Python Basics
+- Problem Solving
+- Clean Coding
+- Debugging
+- Automation
+- Cybersecurity Scripting
+
+  ## 🛠 Upcoming Projects
+
+- Calculator
+- Number Guessing Game
+- Password Generator
+- To-Do App
+- Rock Paper Scissors
+- Contact Book
+
 
 ## 🎯 Goal
 
@@ -47,3 +76,5 @@ Build strong Python programming skills for Cybersecurity and Software Developmen
 ## 👩‍💻 Author
 
 Ridhima Mishra
+
+Aspiring Software Engineer | Cybersecurity Enthusiast | Lifelong Learner
