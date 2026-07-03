@@ -25,6 +25,19 @@ This repository documents my journey of learning Python from scratch while build
 
 
 
+   ## 📅 Learning Progress
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 01 | Hello World | ✅ |
+| Day 02 | Variables | ✅ |
+| Day 03 | Data Types, Input & Output, Comments | ✅ |
+| Day 04 | Operators | ⏳ |
+| Day 05 | Conditional Statements | ⏳ |
+| Day 06 | Loops | ⏳ |
+| Day 07 | Functions | ⏳ |
+
+
 ## 🎯 Goal
 
 Build strong Python programming skills for Cybersecurity and Software Development.
