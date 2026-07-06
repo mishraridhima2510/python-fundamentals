@@ -1,4 +1,4 @@
-Day 06 - Functions
+
 
 ## 📚 Topics Covered
 
