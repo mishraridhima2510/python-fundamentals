@@ -21,10 +21,10 @@ Every folder represents one learning day and contains carefully organized progra
 | Category | Details |
 |-----------|----------|
 | 📅 Started | July 2026 |
-| 📚 Current Progress | Day 12 |
-| 💻 Programs Written | 100+ |
+Current Progress : Day 13
+Programs Written : 110+
 | 🚀 Mini Projects | 10+ |
-| 🔥 Git Commits | 100+ |
+| 🔥 Git Commits | 110+ |
 | 📂 Repository Status | Active |
 | 🎯 Learning Goal | Python → Automation → Cybersecurity |
 
@@ -46,19 +46,20 @@ Every folder represents one learning day and contains carefully organized progra
 | Day 10 | Strings | ✅ |
 | Day 11 | Sets | ✅ |
 | Day 12 | Advanced Functions & Recursion | ✅ |
+| Day 13 | File Handling | ✅ |
 
 
 
 # 📈 Progress Tracker
 
 
-████████████░░░░░░░░░░░░░░░
+█████████████░░░░░░░░░░░░
 
 Python Fundamentals Progress
 
-Day 12 / Day 30
+Day 13 / Day 30
 
-**Current Completion : 40%**
+Current Completion : 43%
 
 # 📚 Topics Covered
 
@@ -150,6 +151,7 @@ python-fundamentals
 ├── Day10
 ├── Day11
 ├── Day12
+|Day13 
 │
 ├── LICENSE
 └── README.md
