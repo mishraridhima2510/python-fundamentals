@@ -21,7 +21,7 @@ Every folder represents one learning day and contains carefully organized progra
 | Category | Details |
 |-----------|----------|
 | 📅 Started | July 2026 |
-| 📚 Current Progress | Day 15 |
+| 📚 Current Progress | Day 16 |
 | 💻 Programs Written | 120+ |
 | 🚀 Mini Projects | 10+ |
 | 🔥 Git Commits | 120+ |
