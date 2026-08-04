@@ -1,0 +1,24 @@
+# Student Database
+
+import json
+
+students = []
+
+while True:
+
+    name = input("Enter Student Name (exit to quit): ")
+
+    if name.lower() == "exit":
+        break
+
+    age = int(input("Enter Age: "))
+
+    students.append({
+        "name": name,
+        "age": age
+    })
+
+with open("students.json", "w") as file:
+    json.dump(students, file, indent=4)
+
+print("\nStudent data saved successfully.")
