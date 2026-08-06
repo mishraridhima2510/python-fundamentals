@@ -1,10 +1,38 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Python+Fundamentals;300%2B+Python+Programs;30-Day+Learning+Journey;Object-Oriented+Programming;Built+by+Ridhima+Mishra" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/300%2B-Programs-39FF14?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/30-Days-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+
+</p>
+
 # 🐍 Python Fundamentals
 
 > A structured 30-day Python learning journey covering core programming concepts, problem-solving, object-oriented programming, file handling, networking, multithreading, and real-world mini projects.
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=---
+
+<p align="center">
+
+### ⚡ Learn • Build • Commit • Repeat ⚡
+
+</p>
+
+---for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 
 
 
