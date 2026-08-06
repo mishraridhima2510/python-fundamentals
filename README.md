@@ -1,28 +1,24 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=300%2B+Python+Programs;30-Day+Python+Journey;Object-Oriented+Programming;Networking+%7C+Socket+Programming;Automation+%7C+File+Handling;JSON+%7C+CSV+%7C+API+Basics;Built+with+❤️+by+Ridhima+Mishra"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Python+Fundamentals;300%2B+Python+Programs;30-Day+Learning+Journey;Object-Oriented+Programming;Built+by+Ridhima+Mishra" />
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99,00bfff,7f00ff&height=180&section=header&text=PYTHON%20FUNDAMENTALS&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+![](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 
-<img src="https://img.shields.io/badge/300%2B-Programs-39FF14?style=for-the-badge"/>
+![](https://img.shields.io/badge/Programs-300+-brightgreen?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/30-Days-success?style=for-the-badge"/>
+![](https://img.shields.io/badge/Projects-30-red?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+![](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/mishraridhima2510/python-fundamentals?style=for-the-badge)
 
 </p>
-
-# 🐍 Python Fundamentals
-
-> A structured 30-day Python learning journey covering core programming concepts, problem-solving, object-oriented programming, file handling, networking, multithreading, and real-world mini projects.
-
-
-### ⚡ Learn • Build • Commit • Repeat ⚡
-
 
 
 # 📚 Course Overview
