@@ -20,19 +20,8 @@
 
 > A structured 30-day Python learning journey covering core programming concepts, problem-solving, object-oriented programming, file handling, networking, multithreading, and real-world mini projects.
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=---
-
-<p align="center">
 
 ### ⚡ Learn • Build • Commit • Repeat ⚡
-
-</p>
-
----for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-
 
 
 
